@@ -40,7 +40,7 @@ How to understand which branch is remote and which is local in the terminal?
 Удалённые ветки обычно видны в формате origin/имя_ветки. origin — это имя удалённого репозитория по умолчанию. Удалённые ветки представляют собой их состояние на сервере.
 
 Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
-
+Добавлен commit в dev-feature
 
 Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
 
